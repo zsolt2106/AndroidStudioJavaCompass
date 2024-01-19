@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="degree">Degree:</string>
+    <string name="steps_taken">Steps taken:</string>
+</resources>
